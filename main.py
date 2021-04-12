@@ -47,5 +47,4 @@ def predict():
 import os 
 
 if __name__ == "__main__":
-    if os.environ("ENVIROMENT")=='production':
-        app.run(debug=True)
+    app.run()
