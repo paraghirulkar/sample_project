@@ -48,4 +48,4 @@ import os
 
 if __name__ == "__main__":
     if os.environ("ENVIROMENT")=='production':
-        app.run()
+        app.run(debug=True)
