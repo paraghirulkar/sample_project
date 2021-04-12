@@ -1,0 +1,5 @@
+numpy==1.13
+pandas==0.20.2
+scipy==0.19.1
+Flask==0.12.2
+sciket_learn==0.18.2
